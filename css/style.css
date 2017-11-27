@@ -274,6 +274,7 @@ a.big-btn span:hover{
 	-o-box-shadow: 0px 1px 2px #999;
 	-ms-box-shadow: 0px 1px 2px #999;
 }
+
 .team-member img{
 	width:100%;
 }
@@ -301,6 +302,31 @@ img.t-pic{
 	font-style:italic;
 	color:#303030;
 }
+
+.for-banner {
+	background: linear-gradient(to bottom right, #fffebb, #fff212);
+}
+
+.for-susu {
+	background: linear-gradient(to bottom right, #ffffff, #d2e5ff);
+}
+
+.for-lailin{
+	background: linear-gradient(to bottom right, #ffffff, #e7ffeb);
+}
+
+.for-zhouxianghong{
+	background: linear-gradient(to bottom right, rgba(65, 161, 255, 0.56), rgba(39, 93, 255, 0.61));
+}
+
+.for-lijulei{
+	background: linear-gradient(to bottom right, rgba(255, 125, 47, 0.58), rgba(254, 45, 26, 0.71));
+}
+
+.for-xuman{
+	background: linear-gradient(to bottom right, rgba(244, 227, 221, 0.67), rgba(190, 163, 147, 0.72));
+}
+
 /*---*/
 .t-social{
 	margin:1em 0 0.5em;
